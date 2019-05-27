@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(15): warning C4838: преобразование из "int" в "SHORT" требует сужающего преобразования
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(37): warning C4838: преобразование из "int" в "char" требует сужающего преобразования
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(37): warning C4309: инициализация: усечение константного значения
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(70): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(154): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(163): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(173): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(346): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\алексей\documents\visual studio 2017\projects\consoleapplication1\consoleapplication1\source.cpp(561): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> C:\Users\Алексей\Documents\Visual Studio 2017\Projects\ConsoleApplication1\Debug\ConsoleApplication1.exe
